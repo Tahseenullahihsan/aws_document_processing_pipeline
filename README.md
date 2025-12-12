@@ -6,6 +6,7 @@ This project demonstrates how to build an automated **document processing pipeli
 
 ## 🚀 Overview
 
+![Pipeline Diagram](achiticture.png)
 The pipeline extracts text from documents, analyzes the content, performs sentiment and entity recognition, generates speech from text, and optionally translates the content into multiple languages. It is designed to be modular, extensible, and suitable for real-world document processing workflows.
 
 ---
@@ -138,3 +139,4 @@ Developed as part of an AWS AI/ML pipeline demonstration.
 
 ---
 
+If you want, I can also generate a **GitHub-ready README with badges**, or create an **architecture diagram** for your pipeline.
